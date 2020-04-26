@@ -1,27 +1,40 @@
-# MeanApp
+<h1 align="center">Welcome to Simple-CRUD-App-implemented-using-MEAN 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+> A basic application showing how to perform CRUD operations in Angular application integrated with NodeJs / Express as a backend with MongDB as the Database
 
-## Development server
+## Install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```sh
+npm install
+```
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```sh
+npm run start
+```
 
-## Build
+## Run tests
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```sh
+npm run test
+```
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+👤 **Shambhu Jha**
 
-## Running end-to-end tests
+* Github: [@iShambhuJha](https://github.com/iShambhuJha)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Show your support
 
-## Further help
+Give a ⭐️ if this project helped you!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
